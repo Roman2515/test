@@ -4,7 +4,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <bitset>
 using namespace std;
 
 class Test{
